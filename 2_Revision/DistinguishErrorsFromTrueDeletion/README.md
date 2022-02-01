@@ -10,5 +10,6 @@ Softwares
    (https://github.com/lh3/minimap2)
 2. Read counts and visualizations: **IGV tools** 
    (https://software.broadinstitute.org/software/igv/)
-3. Assembly gaps in previous assemblies
-3. Calculating proportions of errorneous sites in missing/existing regions: **Python script**
+3. Mppaing to assembly gaps in previous assemblies: **HAL**
+   (https://github.com/ComparativeGenomicsToolkit/hal)
+4. Calculating proportions of errorneous sites in missing/existing regions: **Python scripts** in each zip file
