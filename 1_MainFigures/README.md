@@ -1,1 +1,1 @@
-Scripts for main figures
+Scripts for main and supplementary figures and tables
