@@ -1,6 +1,6 @@
 Data and scripts to distinguish erroneous missing from true individual deletions.
 
-- Species: Pltypus, Climbing perch
+- Species: Platypus, Climbing perch
 - Prior sequening technologies: Sanger and Illumina platforms
 
 Softwares
