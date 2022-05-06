@@ -1,0 +1,9 @@
+Species	Missing	Type
+Zebrafinch	38.2	CpG_islands
+Hummingbird	59.4	CpG_islands
+Platypus	27.9	CpG_islands
+Climbing_perch	24.3	CpG_islands
+Zebrafinch	4.0	Non-CpG_islands
+Hummingbird	2.8	Non-CpG_islands
+Platypus	10.4	Non-CpG_islands
+Climbing_perch	9.1	Non-CpG_islands
