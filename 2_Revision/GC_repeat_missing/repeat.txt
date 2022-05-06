@@ -1,9 +1,0 @@
-Species	Missing	Type
-Zebrafinch	10.9	Repeats
-Hummingbird	8.9	Repeats
-Platypus	15.7	Repeats
-Climbing_perch	20.1	Repeats
-Zebrafinch	3.2	Non-repeats
-Hummingbird	2.2	Non-repeats
-Platypus	7.6	Non-repeats
-Climbing_perch	6.5	Non-repeats
